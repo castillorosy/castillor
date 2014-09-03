@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+}
+
+nav a {
+    color: royalblue;
+}
+
+#current-link {
+    text-decoration: none;
+}
+
+.uppercase{
+    text-transform: uppercase;
+    front-size: 45px;
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
+
+h1 {
+    border: 2px solid lightblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 450px;
+}
