@@ -1,13 +1,13 @@
 body {
-    background-color: bisque;
+    background-color: activecaption;
 }
 
 nav a {
-    color: royalblue;
+    color: blueviolet;
 }
 
 #current-link {
-    text-decoration: none;
+    text-decoration: antiquewhite; 
 }
 
 .uppercase{
@@ -16,12 +16,12 @@ nav a {
 }
 
 img {
-    width: 450px;
+    width: 150px;
     height: auto;
 }
 
 h1 {
-    border: 2px solid lightblue;
+    border: 2px solid bisque;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 15px;
